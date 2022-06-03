@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# cit281-p3
 
-You can use the [editor on GitHub](https://github.com/devonacosta/cit281-p3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project Goals and Objectives 
+1. Gain experience interpreting functional descriptions and specifications to complete an assignment
+2. Gain experience breaking a project into manageable components
+3. Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
+4. Practice creating and using code modules
+5. Practice refactoring using modern JavaScript syntax
+6. Gain experience writing and executing web server Node.js JavaScript code using VSCode
+7. Gain experience using Fastify with the GET verb, routes, and query parameters
+8. Gain experience loading a file and using as a web page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devonacosta/cit281-p3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Deliverables
+1. p3-module.js
+[p3-module.js](p3-module.js)
+2. p3-server.js
+[p3-server.js](p3-server.js)
+3. index.html
+[index.html](index.html)
+4. package.json
+[package.json](package.json)
