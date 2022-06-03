@@ -11,11 +11,7 @@
 8. Gain experience loading a file and using as a web page
 
 ### Project Deliverables
-1. p3-module.js
-[p3-module.js](p3-module.js)
-2. p3-server.js
-[p3-server.js](p3-server.js)
-3. index.html
-[index.html](index.html)
-4. package.json
-[package.json](package.json)
+1. [p3-module.js](p3-module.js)
+2. [p3-server.js](p3-server.js)
+3. [index.html](index.html)
+4. [package.json](package.json)
